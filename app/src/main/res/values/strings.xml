@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin_sample</string>
+
+    <string name="enter_name">Kotlin</string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
